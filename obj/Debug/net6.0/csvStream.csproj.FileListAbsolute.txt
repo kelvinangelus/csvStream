@@ -1,0 +1,15 @@
+C:\Dev\csvStream\bin\Debug\net6.0\csvStream.exe
+C:\Dev\csvStream\bin\Debug\net6.0\csvStream.deps.json
+C:\Dev\csvStream\bin\Debug\net6.0\csvStream.runtimeconfig.json
+C:\Dev\csvStream\bin\Debug\net6.0\csvStream.dll
+C:\Dev\csvStream\bin\Debug\net6.0\csvStream.pdb
+C:\Dev\csvStream\obj\Debug\net6.0\csvStream.csproj.AssemblyReference.cache
+C:\Dev\csvStream\obj\Debug\net6.0\csvStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\csvStream\obj\Debug\net6.0\csvStream.AssemblyInfoInputs.cache
+C:\Dev\csvStream\obj\Debug\net6.0\csvStream.AssemblyInfo.cs
+C:\Dev\csvStream\obj\Debug\net6.0\csvStream.csproj.CoreCompileInputs.cache
+C:\Dev\csvStream\obj\Debug\net6.0\csvStream.dll
+C:\Dev\csvStream\obj\Debug\net6.0\refint\csvStream.dll
+C:\Dev\csvStream\obj\Debug\net6.0\csvStream.pdb
+C:\Dev\csvStream\obj\Debug\net6.0\csvStream.genruntimeconfig.cache
+C:\Dev\csvStream\obj\Debug\net6.0\ref\csvStream.dll
